@@ -1,0 +1,5 @@
+# Liste des dépendances
+
+fastapi
+pandas
+uvicorn
