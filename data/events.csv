@@ -1,1 +1,4 @@
-# Fichier CSV pour stocker les événements
+user_id,product_id,event_type,timestamp
+123,456,view_product,2025-03-18 13:15:26.323216
+321,456,add_to_cart,2025-03-18 13:24:42.748393
+321,456,add_to_cart,2025-03-18 13:38:50.483764
