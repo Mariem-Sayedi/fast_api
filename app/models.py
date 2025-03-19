@@ -7,5 +7,7 @@ from datetime import datetime
 class Event(BaseModel):
     user_id: str
     product_id: str
+    subcategory: str
+    category: str 
     event_type: str  # "view", "add_to_cart", "purchase"
     timestamp: datetime = datetime.utcnow()
