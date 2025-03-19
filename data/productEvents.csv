@@ -1,0 +1,4 @@
+user_id,product_id,subcategory,category,event_type,timestamp
+12345,p001,Smartphones,Électronique,view,2025-03-19 07:49:39.239197
+12345,p001,Smartphones,Électronique,view,2025-03-19 07:49:39.239197
+12345,p001,Smartphones,Électronique,view,2025-03-19 10:01:33.264733

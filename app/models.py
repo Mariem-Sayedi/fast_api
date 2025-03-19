@@ -11,3 +11,10 @@ class Event(BaseModel):
     category: str 
     event_type: str  # "view", "add_to_cart", "purchase"
     timestamp: datetime = datetime.utcnow()
+
+
+# Modèle pour une recherche utilisateur
+class SearchEvent(BaseModel):
+    user_id: str        
+    search_query: str   
+    timestamp: datetime = datetime.utcnow()
